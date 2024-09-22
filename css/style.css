@@ -1,0 +1,10 @@
+:root{
+    --accent-color: #2196F3;
+    --logo-color: #000;
+    --text-color: #212121;
+    --added-text: #757575;
+    --footer-background: #2F303A;
+    --title-color: #FFF;
+    --team-background: #F5F4FA;
+    --footer-numbers:rgba(255, 255, 255, 0.60);
+}
