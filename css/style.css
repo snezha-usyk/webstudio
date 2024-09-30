@@ -9,3 +9,172 @@
     --footer-numbers:rgba(255, 255, 255, 0.60);
 }
 
+.container{
+    width: 1200px ;
+    padding-left: 15px ;
+    padding-right:15px ;
+    margin:0 auto ;
+    outline: 1px solid red ;
+}
+
+
+
+body{
+    font-family:"Roboto";
+}
+.header{
+padding-top: 24px;
+padding-bottom: 25px;
+}
+
+.header-logo{
+    color: var(--accent-color);
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 1.38;
+letter-spacing: 0.78px;
+}
+
+.header-span{
+    color: var(--logo-color);
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 1.38;
+letter-spacing: 0.78px;
+}
+
+.nav-link{
+    color:var(--text-color);
+font-size: 14px;
+font-weight: 500;
+line-height: 1.14;
+letter-spacing: 0.28px;
+}
+
+.nav-link:hover{
+    color:var(--accent-color);
+}
+
+.header-link{
+    color:var(--added-text);
+font-size: 14px;
+font-weight: 500;
+line-height: 1.14;
+letter-spacing: 0.28px;
+}
+
+.header-link:hover{
+    color:var(--accent-color);
+}
+
+.hero{
+   background-color: var(--footer-background); 
+   padding-top:200px ;
+   padding-bottom:200px ;
+}
+
+.hero-title{
+    color: var(--title-color);
+text-align: center;
+font-size: 44px;
+font-weight: 900;
+line-height: 1.36; /* 136.364% */
+letter-spacing: 2.64px;
+text-transform: uppercase;
+}
+
+.hero-btn{
+    color:var(--title-color);
+text-align: center;
+font-size: 16px;
+font-weight: 700;
+line-height: 1.87; /* 187.5% */
+letter-spacing: 0.96px;
+background-color: var(--accent-color);
+}
+
+.advantages-title{
+    color: var(--text-color);
+font-size: 14px;
+font-weight: 700;
+line-height: 1.14;
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+
+.advantages-text{
+    color: var(--added-text);
+font-size: 14px;
+font-weight: 400;
+line-height: 1.71; /* 171.429% */
+letter-spacing: 0.42px;
+}
+
+.people{
+    background-color: var(--team-background);
+}
+
+.people-title{
+    color: var(--text-color);
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 1.08px;
+}
+
+.people-name{
+    color: var(--text-color);
+text-align: center;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.18;
+letter-spacing: 0.48px;
+}
+
+.people-text{
+    color: var(--added-text);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.18;
+letter-spacing: 0.48px;
+}
+
+.footer{
+    background-color: var(--footer-background);
+}
+
+.footer-logo{
+    color: var(--accent-color);
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.38;
+    letter-spacing: 0.78px;
+}
+
+.footer-span{
+    color: #FFF;
+font-size: 26px;
+font-weight: 700;
+line-height: 1.38;
+letter-spacing: 0.78px;
+}
+
+.footer-link{
+    color: var(--title-color);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.71; /* 171.429% */
+    letter-spacing: 0.42px;
+}
+
+.address-link{
+    color: var(--footer-numbers);
+font-size: 14px;
+font-weight: 400;
+line-height: 1.71; /* 171.429% */
+letter-spacing: 0.42px;
+} 
