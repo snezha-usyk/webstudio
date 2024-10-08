@@ -96,7 +96,6 @@ background-color: var(--accent-color);
 
 .advantages{
     padding-top:94px ;
-    padding-bottom:118px ;
 
 }
 
@@ -119,14 +118,14 @@ letter-spacing: 0.42px;
 }
 
 .work{
-    padding-top:118px ;
-    padding-bottom:50px ;  
+    padding-top:94px ;
+    padding-bottom:94px ;  
 }
 
 .people{
     background-color: var(--team-background);
     padding-top:94px ;
-    padding-bottom:50px ;
+    padding-bottom:94px ;
 }
 
 .people-title{
